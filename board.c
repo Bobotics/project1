@@ -3,6 +3,7 @@
 int c=0, i=0, j=0, tam=0;
 int x=0, y=0;
 char posicao[4];
+//gay
 
 int createboard(void)
 {

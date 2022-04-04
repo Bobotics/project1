@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1648565172 source:/home/student/Desktop/Programacao/projeto2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"board.h"
+
+1648567880 /home/student/Desktop/Programacao/projeto2/main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1648565171 /home/student/Desktop/Programacao/projeto2/board.h
+	<stdio.h>
+	<stdlib.h>
+
+1648664614 source:/media/sf_prog/projeto3/projeto2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"board.h"
+
+1648567882 /media/sf_prog/projeto3/projeto2/main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1648669247 /media/sf_prog/projeto3/projeto2/board.h
+	<stdio.h>
+	<stdlib.h>
+
+1648664616 source:/media/sf_Programacao/projeto3/projeto2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"board.h"
+
+1648567882 /media/sf_Programacao/projeto3/projeto2/main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1648741001 /media/sf_Programacao/projeto3/projeto2/board.h
+	<stdio.h>
+	<stdlib.h>
+
+1648856432 source:/media/sf_prog/projeto4/projeto3/projeto2/main.c
+	"main.h"
+	"board.h"
+
+1648752789 /media/sf_prog/projeto4/projeto3/projeto2/main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1648857459 /media/sf_prog/projeto4/projeto3/projeto2/board.h
+	<stdio.h>
+	<stdlib.h>
+
+1648857192 source:/media/sf_prog/projeto4/projeto3/projeto2/board.c
+	"board.h"
+
